@@ -12,12 +12,6 @@ This project is designed to send a rain alert via SMS if the weather forecast pr
 2. It checks the forecast for the next 12 hours to see if any of the weather conditions indicate rain (e.g., weather codes < 700).
 3. If rain is forecasted, the script sends an SMS notification via Twilio to remind you to bring an umbrella.
 
-## **Features**
-
-- Fetches weather data for the next 12 hours from OpenWeatherMap.
-- Detects if any of those hours are expected to have rain or similar weather conditions.
-- Sends an SMS alert using Twilio if rain is expected.
-
 ## **Instructions**
 
 ### 1. Set Up Environment Variables
