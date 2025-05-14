@@ -1,2 +1,15 @@
-# Rain-Alert-Day-35-Project
-Rain Alert using openweathermap and twilio
+# Rain Alert 
+## **Overview**
+
+This is the Day 35 project from the course "100 Days of Code: The Complete Python Pro Bootcamp". 
+
+## **How It Works**
+
+## **Features**
+
+## **Requirements**
+
+* Python 3.x
+* `requests` library for API calls (`pip install requests`)
+* `tkinter` for GUI (usually comes pre-installed with Python)
+
